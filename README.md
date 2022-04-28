@@ -17,7 +17,9 @@ This repository contains the following algorithms:
 2. Big-O Notation.
 
   a. A Simple Loop: Finds the maximal element in an array.
+  
   b. A Nested Loop: The function checks if an array has any duplicates by taking each element.
+  
   c. O(log n) types of Algorithms.
   
 3. Trees.
